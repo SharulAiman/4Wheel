@@ -27,8 +27,7 @@
       border: 1px solid;
     }
     
-    tr {    
-      border: 1px solid;  
+    tr {     
       height: 1em;
     }
     
