@@ -21,7 +21,7 @@
     <input type="submit" value="LoginAdmin">
     <br>${message}
  
-     <a href="login.jsp">Login As User</a>
+     <a href="index.jsp">Login As User</a>
 </form>
 
 </body>
