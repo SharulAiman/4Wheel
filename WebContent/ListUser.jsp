@@ -57,13 +57,7 @@ window.onload = function () {
           var cell6 = row.insertCell(5).innerHTML = 'Post Code';
           var cell7 = row.insertCell(6).innerHTML = 'City';
 
-          cell1.innerHTML = car_obj[i].CustIc;
-          cell2.innerHTML = car_obj[i].CustName;
-          cell3.innerHTML = car_obj[i].CustPhoneNum;
-          cell4.innerHTML = car_obj[i].CustEmail;
-          cell5.innerHTML = car_obj[i].CustAddress;
-          cell6.innerHTML = car_obj[i].CustPostcode;
-          cell7.innerHTML = car_obj[i].CustCity;
+         
         }
         else {
           var cell1 = row.insertCell(0);
@@ -77,9 +71,9 @@ window.onload = function () {
           cell1.innerHTML = car_obj[i].CustIc;
           cell2.innerHTML = car_obj[i].CustName;
           cell3.innerHTML = car_obj[i].CustPhoneNum;
-          cell4.innerHTML = car_obj[i].CsutEmail;
+          cell4.innerHTML = car_obj[i].CustEmail;
           cell5.innerHTML = car_obj[i].CustAddress;
-          cell6.innerHTML = car_obj[i].CustPostCode;
+          cell6.innerHTML = car_obj[i].CustPostcode;
           cell7.innerHTML = car_obj[i].CustCity;
         }
       }
