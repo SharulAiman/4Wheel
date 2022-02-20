@@ -60,9 +60,9 @@ window.onload = function () {
           cell1.innerHTML = car_obj[i].CustIc;
           cell2.innerHTML = car_obj[i].CustName;
           cell3.innerHTML = car_obj[i].CustPhoneNum;
-          cell4.innerHTML = car_obj[i].CsutEmail;
+          cell4.innerHTML = car_obj[i].CustEmail;
           cell5.innerHTML = car_obj[i].CustAddress;
-          cell6.innerHTML = car_obj[i].CustPostCode;
+          cell6.innerHTML = car_obj[i].CustPostcode;
           cell7.innerHTML = car_obj[i].CustCity;
         }
         else {
