@@ -24,9 +24,11 @@
       padding: 1em;
       background-color: #e8503a;
       color: white;
+      border: 1px solid;
     }
     
     tr {    
+      border: 1px solid;  
       height: 1em;
     }
     
