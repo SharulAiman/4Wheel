@@ -6,13 +6,32 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-    table, td, th {
-      border: 1px solid;
+    table {
+      font-family: "Lato","sans-serif";
+      margin-bottom: 3em;
+      border-collapse:collapse;
+      width: 100%;
     }
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
+    td {
+      text-align: center;     
+      width: 10em;                    
+      padding: 1em;
+    }       
+    
+    .table_th {
+      text-align: center;
+      padding: 1em;
+      background-color: #e8503a;
+      color: white;
+    }
+    
+    tr {    
+      height: 1em;
+    }
+    
+    table tr:nth-child(even) {
+      background-color: #eee;
     }
   </style>
 <script>
