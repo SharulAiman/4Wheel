@@ -28,6 +28,7 @@
     }
     
     tr {     
+        border: 1px solid;
       height: 1em;
     }
     
