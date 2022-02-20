@@ -25,6 +25,7 @@
   <a href="listAdmin.jsp" class="w3-bar-item w3-button">ADD ADMIN</a>
   <a href="listCarAdmin.jsp" class="w3-bar-item w3-button">CAR LIST</a>
    <a href="receipt.jsp" class="w3-bar-item w3-button">PAYMENT LIST</a>
+<a href="ListUser.jsp" class="w3-bar-item w3-button">USER LIST</a>
   <a href="index.jsp" class="w3-bar-item w3-button">LOG OUT</a>
 </div>
 
