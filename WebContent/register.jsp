@@ -41,7 +41,7 @@ City</p>
 Password</p>
 <input type="password" placeholder="Password" name="CustPassword" required>
                    <input type="submit" value="Register">
-                   <a href="login.jsp">Already have Account?</a>
+                   <a href="index.jsp">Already have Account?</a>
                 </form>
 </div>
 </div>
